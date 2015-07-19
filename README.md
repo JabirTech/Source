@@ -1,5 +1,6 @@
 #JabirOS Source Code
 
+check out project at [its website](http://jabirproject.org)
 
 ## Authors
 
